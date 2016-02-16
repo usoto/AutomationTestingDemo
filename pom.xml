@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.hansongwang.mobiletestautomation</groupId>
-	<artifactId>MobileTestAutomation</artifactId>
+	<groupId>com.hansongwang.mobile_test_automation_demos</groupId>
+	<artifactId>MobileTestAutomationDemos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>MobileTestAutomation</name>
+	<name>MobileTestAutomationDemos</name>
 	<url>http://hansongwang.com/</url>
 
 	<properties>
@@ -78,6 +78,6 @@
 		</plugins>
 	</build>
 	
-	<description>Mobile (both Android and iOS) automation testing demos using Appium and Selendroid.</description>
+	<description>Mobile (both Android and iOS) automation testing demos using  Appium, Selendroid, etc.</description>
 	
 </project>
